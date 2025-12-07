@@ -1,0 +1,72 @@
+[
+  {
+    "name": "James Jackson",
+    "email": "jamesjackson@example.com",
+    "phone": "(123) 4567 890",
+    "avatar": "build/img/avatars/avatar-72.jpg",
+    "status": "Active"
+  },
+  {
+    "name": "Robin Coffin",
+    "email": "robin@example.com",
+    "phone": "(179) 7382 829",
+    "avatar": "build/img/avatars/avatar-63.jpg",
+    "status": "Active"
+  },
+  {
+    "name": "Vincent Thornburg",
+    "email": "vincent@example.com",
+    "phone": "(184) 2719 738",
+    "avatar": "build/img/avatars/avatar-58.jpg",
+    "status": "Active"
+  },
+  {
+    "name": "Fran Faulkner",
+    "email": "franfaulker@example.com",
+    "phone": "(184) 2719 738",
+    "avatar": "build/img/avatars/avatar-61.jpg",
+    "status": "Active"
+  },
+  {
+    "name": "Ernestine Waller",
+    "email": "waller@example.com",
+    "phone": "(183) 9302 890",
+    "avatar": "build/img/avatars/avatar-60.jpg",
+    "status": "Active"
+  },
+  {
+    "name": "Jared Adams",
+    "email": "jaredadams@example.com",
+    "phone": "(120) 3728 039",
+    "avatar": "build/img/avatars/avatar-73.jpg",
+    "status": "Active"
+  },
+  {
+    "name": "Reyna Pelfrey",
+    "email": "reynapelfrey@example.com",
+    "phone": "(102) 8480 832",
+    "avatar": "build/img/avatars/avatar-66.jpg",
+    "status": "Active"
+  },
+  {
+    "name": "Rafael Lowe",
+    "email": "rafeallowe@example.com",
+    "phone": "(162) 8920 713",
+    "avatar": "build/img/avatars/avatar-65.jpg",
+    "status": "Active"
+  },
+  {
+    "name": "Enrique Ratcliff",
+    "email": "enrique@example.com",
+    "phone": "(189) 0920 723",
+    "avatar": "build/img/avatars/avatar-74.jpg",
+    "status": "Active"
+  },
+  {
+    "name": "Elizabeth Pegues",
+    "email": "elizabeth@example.com",
+    "phone": "(168) 8392 823",
+    "avatar": "build/img/avatars/avatar-64.jpg",
+    "status": "Active"
+  }
+]
