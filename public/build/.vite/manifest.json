@@ -3,6 +3,7 @@
     "file": "css/style.min.css",
     "src": "resources/css/style.css",
     "isEntry": true,
+    "name": "style",
     "names": [
       "style.css"
     ]
