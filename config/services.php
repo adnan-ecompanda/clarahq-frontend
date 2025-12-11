@@ -34,5 +34,16 @@ return [
             'channel' => env('SLACK_BOT_USER_DEFAULT_CHANNEL'),
         ],
     ],
+    'emr' => [
+        'base_url' => env('EMR_API_BASE_URL'),
+        'token'    => env('EMR_API_TOKEN'),
+    ],
+
+    'whatsapp' => [
+        'verify_token'    => env('WHATSAPP_VERIFY_TOKEN'),
+        'access_token'    => env('WHATSAPP_ACCESS_TOKEN'),
+        'phone_number_id' => env('WHATSAPP_PHONE_NUMBER_ID'),
+        'api_url'         => env('WHATSAPP_API_URL', 'https://graph.facebook.com/v21.0'),
+    ],
 
 ];
